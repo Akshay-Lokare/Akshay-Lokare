@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay Lokare! 👋
 
-![Coffee & Rain](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Rainy Coding](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
 ## About Me 🚀
 
