@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Akshay Lokare 👋
 
-<!--
-**Akshay-Lokare/Akshay-Lokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m passionate about building web and mobile applications and constantly learning new technologies to enhance my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- React
+- React Native
+- Next.js (Learning)
+- Redux
+- Flutter & Dart
+
+### Backend Development
+- Node.js
+- Python
+- REST API
+
+### Database Management
+- MongoDB
+- Postgres (Learning)
+
+### DevOps & Tools
+- Docker (Learning)
+- Git & GitHub
+- Selenium Python
+- Postman
+
+---
+
+## 💻 Currently Learning
+- Next.js (Advanced concepts)
+- Postgres
+- Docker
+
+---
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/your-profile)  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building full-stack applications, exploring new technologies, and automating repetitive tasks using Python and Selenium.  
+
