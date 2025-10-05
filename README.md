@@ -1,6 +1,5 @@
 # Hi there, I'm Akshay Lokare! 👋
 
-![Rainy Coding](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
 ## About Me 🚀
 
