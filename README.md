@@ -2,18 +2,19 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Akshay Lokare</span></h1>
 
 <p align="center">
-  🚀 Passionate <b>Software Developer</b> | 🌐 Full Stack Engineer | 📱 Mobile App Developer
+  🚀 Passionate <b>Software Developer</b> | 🌐 Full Stack Developer | 📱 Mobile App Developer
 </p>
 
 ---
 
 ## 💼 Current Role
 
-💻 **Software Developer** at **[Your Company Name](https://your-company-link.com)** (Month YYYY – Present)  
-- Working on **full-stack web development** using MERN stack & modern tooling  
-- Developing **mobile apps** using React Native & Flutter to enhance user engagement  
-- Collaborating with cross-functional teams to deliver scalable solutions  
-- Continuously improving application performance and implementing best practices
+💻 **Software Developer** at **[Your Company Name]([https://your-company-link.com](https://microshare.io/))** (August 2023 – Present)  
+- 🐍 Developing robust **Python scripts & automation tools** to streamline internal workflows  
+- ⚡ Building **React** and **React Native** applications for intuitive and scalable user experiences  
+- ☁️ Writing **data ingestion & processing scripts** to fetch and transform data from **Azure Data Lake**  
+- 📊 Creating and maintaining **ELK Stack dashboards** for real-time system monitoring and insights  
+- 🧰 Contributing to **technical enablement**, ensuring smooth operations through proactive issues and tickets resolution and tooling improvements
 
 ---
 
