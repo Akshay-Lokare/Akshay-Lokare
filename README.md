@@ -5,7 +5,7 @@
 ---
 
 ## 💼 Current Role
-**Software Developer** at **[Microshare](https://microshare.io/)** (August 2023 – Present)  
+**Software Engineer** at **[Microshare](https://microshare.io/)** (August 2023 – Present)  
 - 🌐 Building **full-stack web applications** with **React**, **React Native**, **Node.js**, and **working with MongoDB**  
 - ⚡ Working with **APIs** to integrate services  
 - 🐍 Writing **Python scripts** for data ingestion, processing, and internal tooling  
