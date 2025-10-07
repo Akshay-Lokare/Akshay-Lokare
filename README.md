@@ -2,19 +2,21 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Akshay Lokare</span></h1>
 
 <p align="center">
-  🚀 Passionate <b>Software Developer</b> | 🌐 Full Stack Developer | 📱 Mobile App Developer
+  💻 Full Stack & Mobile Developer | 🌐 Software Developer | 🛠 Automation & Tools
 </p>
 
 ---
 
 ## 💼 Current Role
 
-💻 **Software Developer** at **[Your Company Name]([https://your-company-link.com](https://microshare.io/))** (August 2023 – Present)  
-- 🐍 Developing robust **Python scripts & automation tools** to streamline internal workflows  
-- ⚡ Building **React** and **React Native** applications for intuitive and scalable user experiences  
-- ☁️ Writing **data ingestion & processing scripts** to fetch and transform data from **Azure Data Lake**  
-- 📊 Creating and maintaining **ELK Stack dashboards** for real-time system monitoring and insights  
-- 🧰 Contributing to **technical enablement**, ensuring smooth operations through proactive issues and tickets resolution and tooling improvements
+**Software Developer** at **[Microshare](https://microshare.io/)** (August 2023 – Present)  
+- 🌐 Building **full-stack web applications** with **React**, **React Native**, **Node.js**, and **working with MongoDB**  
+- ⚡ **Working with APIs** to integrate services and enhance application functionality  
+- 🐍 Writing **Python scripts** for data ingestion, processing, and internal tooling (automation)  
+- ☁️ Fetching and transforming data from **Azure Data Lake** for analytics and reporting  
+- 📊 Creating and maintaining **ELK Stack dashboards** for monitoring and insights  
+- 🧰 Contributing to **technical enablement**, ensuring smooth operations and supporting engineering workflows
+
 
 ---
 
@@ -22,9 +24,9 @@
 
 I'm a passionate Software Developer who loves building impactful products and exploring new technologies.
 
-- 💡 Building **full-stack web apps and mobile apps** that solve real-world problems  
-- 🛠 Always learning and experimenting with **new tools, frameworks, and techniques**  
-- 🌟 Contributor to **open-source** and enjoy collaborating with devs globally  
+- 💡 Building **full-stack web apps** and **mobile applications** that solve real problems  
+- 🛠 Always experimenting with **new tools, frameworks, and techniques**  
+- 🌟 Contributor to **open-source**, collaborating with devs globally  
 - 🎯 Eager to **learn, grow**, and take on challenging projects
 
 ---
@@ -35,6 +37,7 @@ I'm a passionate Software Developer who loves building impactful products and ex
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,12 +53,28 @@ I'm a passionate Software Developer who loves building impactful products and ex
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaylokare&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaylokare&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
+- 🌐 Building **full-stack web applications** with MERN stack and modern frontend frameworks  
+- 📱 Developing **React Native mobile apps** with performance and user experience in mind  
+- ⚡ **Working with APIs and MongoDB** to integrate and manage data efficiently  
+- 🧠 Deepening understanding of **internal workings of programming languages** and **data structures & algorithms (DSA)**  
+- ☁️ Exploring **cloud-native architecture** & **data engineering** for scalable solutions  
+- 🛠 Building **internal tools and automation** to streamline workflows 
+- 🤖 Experimenting with **AI-assisted development workflows**
+- 🔬 **Reading about new technologies** and experimenting with them to stay up-to-date
+
+
+---
+
+## 🔭 What I'm Up To
+
+- 🌐 Sharpening my **MERN stack** skills through side projects  
+- 📊 Expanding **ELK stack** monitoring solutions for better observability  
+- ☁️ Deepening knowledge of **Azure services** & **data pipelines**  
+- 🧠 Revising and improving knowledge in **other programming languages** like **C++**
+- 📘 Contributing to **open-source** and building reusable components
+
 
 ---
 
