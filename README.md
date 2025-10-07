@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Akshay Lokare</span></h1>
+<h1 align="center">Hi there, I'm <span style="color:#4A90E2;">Akshay Lokare</span></h1>
 <p align="center"> Full Stack & Mobile Developer | Software Developer | Automation & Tools</p>
 
 ---
