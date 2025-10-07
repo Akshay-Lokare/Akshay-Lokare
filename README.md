@@ -1,34 +1,70 @@
-# Hi there, I'm Akshay Lokare! 👋
+<!-- Header Section -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Akshay Lokare</span></h1>
 
+<p align="center">
+  🚀 Passionate <b>Software Developer</b> | 🌐 Full Stack Engineer | 📱 Mobile App Developer
+</p>
 
-## About Me 🚀
+---
 
-I'm a passionate Software Developer with experience in Full Stack development using the MERN stack and mobile app development with React Native & Flutter. I enjoy solving complex problems, learning new technologies, and building projects that make an impact.
+## 💼 Current Role
 
-- 💡 Passionate about building **full-stack web apps and mobile apps** that solve real-world problems
-- 🛠 Constantly exploring **new tools and frameworks** to improve my workflow and productivity
-- 🌟 Enjoy contributing to **open-source projects** and collaborating with developers worldwide
-- 🎯 Always looking for opportunities to **learn, grow, and tackle challenging projects**
+💻 **Software Developer** at **[Your Company Name](https://your-company-link.com)** (Month YYYY – Present)  
+- Working on **full-stack web development** using MERN stack & modern tooling  
+- Developing **mobile apps** using React Native & Flutter to enhance user engagement  
+- Collaborating with cross-functional teams to deliver scalable solutions  
+- Continuously improving application performance and implementing best practices
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+## 🚀 About Me
 
-## Get in Touch 📬
+I'm a passionate Software Developer who loves building impactful products and exploring new technologies.
 
-- **[LinkedIn](https://www.linkedin.com/in/akl29/)**
-- **Email:** [akshaylokare29@gmail.com](mailto:akshaylokare29@gmail.com)
+- 💡 Building **full-stack web apps and mobile apps** that solve real-world problems  
+- 🛠 Always learning and experimenting with **new tools, frameworks, and techniques**  
+- 🌟 Contributor to **open-source** and enjoy collaborating with devs globally  
+- 🎯 Eager to **learn, grow**, and take on challenging projects
 
+---
+
+## 🧠 Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaylokare&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaylokare&theme=tokyonight" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akl29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akshaylokare29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
